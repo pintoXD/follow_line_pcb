@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : ARDUINO_NANO.LibPkg
+
+Section : C:\Users\calan\Documents\LESC\Segue_Linha_Projeto\ARDUINO_NANO.lia
+    Section : PCB Library - ARDUINO_NANO.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ARDUINO_NANO On Line 175
+            Warning - 1 : Skipping Token attachedSymbol On Line 502
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ARDUINO_NANO.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 128
+            Warning - 1 : Skipping Token layerContents On Line 142
+            Warning - 1 : Skipping Token layerContents On Line 156
+            Warning - 1 : Skipping Token layerContents On Line 166
+        EndSection
+
+        Section : Generating SCH Library - ARDUINO_NANO.SchLib
+        EndSection
+    EndSection
+EndSection

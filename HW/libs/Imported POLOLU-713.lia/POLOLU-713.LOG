@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : POLOLU-713.LibPkg
+
+Section : C:\Users\calan\Documents\LESC\Segue_Linha_Projeto\POLOLU-713.lia
+    Section : PCB Library - POLOLU-713.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token POLOLU-713 On Line 145
+            Warning - 1 : Skipping Token attachedSymbol On Line 332
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - POLOLU-713.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 122
+            Warning - 1 : Skipping Token layerContents On Line 130
+            Warning - 1 : Skipping Token layerContents On Line 136
+        EndSection
+
+        Section : Generating SCH Library - POLOLU-713.SchLib
+        EndSection
+    EndSection
+EndSection
